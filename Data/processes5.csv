@@ -1,0 +1,201 @@
+﻿name,pid,memory_usage,status
+loginwindow,363,31490048,running
+distnoted,513,3948544,running
+cfprefsd,514,4177920,running
+UserEventAgent,531,8830976,running
+lsd,536,10403840,running
+nsurlsessiond,540,12288000,running
+usernoted,541,14352384,running
+rapportd,543,10895360,running
+lockoutagent,545,5341184,running
+secd,548,12206080,running
+backgroundtaskmanagementagent,551,3506176,running
+sharedfilelistd,552,4669440,running
+NotificationCenter,559,19070976,running
+identityservicesd,563,19775488,running
+itunescloudd,564,7323648,running
+Microsoft Word,572,33685504,running
+bird,575,5685248,running
+coreauthd,584,5554176,running
+sharingd,585,19152896,running
+pboard,586,6356992,running
+cloudd,589,29917184,running
+Messages,597,43384832,running
+Preview,600,33243136,running
+Google Chrome,601,59260928,running
+Microsoft PowerPoint,607,32096256,running
+Music,608,0,stopped
+Terminal,609,24985600,running
+Xcode,611,19333120,running
+Microsoft Excel,612,59555840,running
+Mail,614,20660224,running
+App Store,615,0,stopped
+spindump_agent,616,2146304,running
+Calendar,617,10944512,running
+Notes,618,0,stopped
+Dock,620,25411584,running
+ControlCenter,621,37421056,running
+SystemUIServer,623,7061504,running
+Finder,624,50233344,running
+Spotlight,627,14565376,running
+fontd,628,8142848,running
+com.apple.Safari.History,631,7946240,running
+fontworker,632,2195456,running
+CalendarAgent,633,29245440,running
+AMPDeviceDiscoveryAgent,635,4194304,running
+useractivityd,641,10321920,running
+com.apple.dock.extra,645,6766592,running
+commerce,650,6881280,running
+familycircled,651,7979008,running
+avconferenced,654,8732672,running
+UIKitSystem,656,6078464,running
+imagent,659,15925248,running
+imklaunchagent,662,5472256,running
+PasswordBreachAgent,664,5472256,running
+WiFiAgent,666,5210112,running
+corespotlightd,671,28753920,running
+mdwrite,680,2605056,running
+passd,682,5242880,running
+PAH_Extension,687,7995392,running
+icdd,696,3309568,running
+mediaremoteagent,734,2752512,running
+mdbulkimport,742,7913472,running
+com.apple.WebKit.WebContent,751,6111232,running
+com.apple.WebKit.Networking,753,5586944,running
+com.apple.CoreSimulator.CoreSimulatorService,808,2998272,running
+SimLaunchHost.arm64,810,376832,running
+SimulatorTrampoline,812,2572288,running
+corespeechd,818,5652480,running
+AirPlayUIAgent,835,4112384,running
+cloudpaird,837,9486336,running
+diagnostics_agent,838,7110656,running
+TextInputMenuAgent,839,8896512,running
+ctkahp,843,2244608,running
+com.apple.WebKit.WebContent,854,7225344,running
+com.apple.WebKit.Networking,856,6340608,running
+com.apple.dt.SKAgent,874,4816896,running
+XCBBuildService,876,1523712,running
+GPUToolsAgent,879,1490944,running
+storeaccountd,1007,5423104,running
+chrome_crashpad_handler,1181,737280,running
+Google Chrome Helper (GPU),1188,24215552,running
+Google Chrome Helper,1190,15040512,running
+Google Chrome Helper,1192,6684672,running
+com.apple.speech.speechsynthesisd,1333,1097728,running
+Microsoft Update Assistant,1649,6389760,running
+callservicesd,2406,15794176,running
+accountsd,5704,16859136,running
+Teams,7262,51904512,running
+chrome_crashpad_handler,7335,737280,running
+Microsoft Teams Helper (GPU),7336,14614528,running
+Microsoft Teams Helper,7338,16039936,running
+Microsoft Teams Helper (Renderer),7341,11976704,running
+Microsoft Teams Helper,7342,8339456,running
+parsecd,14319,11993088,running
+ControlCenterHelper,18017,6356992,running
+CommCenter,19187,9289728,running
+Safari,32911,127467520,running
+com.apple.WebKit.Networking,32913,41304064,running
+com.apple.WebKit.GPU,32972,19349504,running
+OneDrive,34865,18202624,running
+com.apple.Safari.SearchHelper,35180,7208960,running
+Numbers,35276,24297472,running
+tccd,38583,10960896,running
+Microsoft Teams Helper (Renderer),39243,80216064,running
+Microsoft Teams Helper (Renderer),39249,43352064,running
+Microsoft Teams Helper (Renderer),39250,32079872,running
+com.apple.WebKit.WebContent,44213,31424512,running
+zsh,44488,720896,running
+bash,44500,688128,running
+python3.7,44502,7299072,running
+python3.7,44513,4620288,running
+python3.7,44583,4644864,running
+com.apple.WebKit.WebContent,49014,26099712,running
+Siri,49095,14499840,running
+ContextStoreAgent,49103,13369344,running
+contentlinkingd,49118,8093696,running
+assistantd,49128,22609920,running
+SiriNCService,49129,12599296,running
+siriactionsd,49134,15138816,running
+IMDPersistenceAgent,49271,28868608,running
+swcd,49274,6651904,running
+reversetemplated,49601,11239424,running
+sociallayerd,49603,18939904,running
+BiomeAgent,49776,3833856,running
+containermanagerd,49779,7159808,running
+AudioComponentRegistrar,49780,5996544,running
+dmd,49800,10371072,running
+AssetCacheLocatorService,49828,9322496,running
+akd,49829,11960320,running
+pkd,49907,17203200,running
+networkserviceproxy,49917,11173888,running
+SafariBookmarksSyncAgent,50037,16023552,running
+SidecarRelay,50408,6455296,running
+com.apple.accessibility.mediaaccessibilityd,50419,2392064,running
+ContextService,50420,18333696,running
+LinkedNotesUIService,50450,13942784,running
+zoom.us,50503,64253952,running
+universalAccessAuthWarn,50508,11255808,running
+caphost,50513,6062080,running
+com.apple.SafariPlatformSupport.Helper,50516,16957440,running
+com.apple.WebKit.WebContent,50517,20611072,running
+translationd,50518,20152320,running
+ImageIOXPCService,50522,4161536,running
+com.apple.WebKit.WebContent,50582,137953280,running
+com.apple.WebKit.WebContent,50758,104988672,running
+remindd,50787,16629760,running
+ScopedBookmarkAgent,50889,3424256,running
+WiFiVelocityAgent,51058,3522560,running
+com.apple.WebKit.WebContent,51096,33112064,running
+com.apple.WebKit.WebContent,51097,32079872,running
+zsh,51107,1605632,running
+bash,51117,1130496,running
+python3.7,51119,67178496,running
+com.apple.Safari.SandboxBroker,51127,19742720,running
+com.apple.WebKit.WebContent,51128,198868992,running
+com.apple.WebKit.WebContent,51131,186957824,running
+python3.7,51137,56913920,running
+com.apple.WebKit.WebContent,51139,27131904,running
+proactiveeventtrackerd,51148,4718592,running
+python3.7,51149,63959040,running
+mdworker_shared,51155,16515072,running
+com.apple.hiservices-xpcservice,51160,3997696,running
+com.apple.quicklook.ThumbnailsAgent,51164,15974400,running
+python3.7,51165,124080128,running
+UniversalControl,51168,21528576,running
+syncdefaultsd,51172,14712832,running
+CoreServicesUIAgent,51173,17874944,running
+Keychain Circle Notification,51176,22888448,running
+cdpd,51177,6701056,running
+StatusKitAgent,51178,13615104,running
+vcxpc,51182,15335424,running
+IMAutomaticHistoryDeletionAgent,52205,2932736,running
+knowledge-agent,52929,19988480,running
+IMTranscoderAgent,54069,5914624,running
+ViewBridgeAuxiliary,54725,6766592,running
+PowerChime,54868,9175040,running
+storedownloadd,54898,2850816,running
+DiskUnmountWatcher,58438,1277952,running
+mbuseragent,71252,4980736,running
+suggestd,71681,79183872,running
+photolibraryd,72498,8896512,running
+talagent,77658,4718592,running
+com.apple.WebKit.WebContent,82810,5881856,running
+com.apple.WebKit.Networking,82813,5652480,running
+python,84762,131072,running
+python3.9,84764,27062272,running
+zsh,84823,163840,running
+zsh,84824,163840,running
+zsh,84825,163840,running
+trustd,85226,10747904,running
+Google Chrome Helper,85411,7880704,running
+TV,86917,33292288,running
+AMPLibraryAgent,86922,9584640,running
+System Preferences,86985,8765440,running
+studentd,86993,13811712,running
+AccountProfileRemoteViewService,86998,8224768,running
+AvatarPickerMemojiPicker,87002,12615680,running
+com.apple.preferences.Bluetooth.remoteservice,87010,8339456,running
+loginwindow,363,14598144,running
+distnoted,513,3670016,running
+cfprefsd,514,3817472,running
